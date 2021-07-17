@@ -6,7 +6,7 @@ public class JenkinsCalculator {
 	  return numberOne + numberTwo;
 	}
 	public int subtractNumbers(int numberOne, int numberTwo) {
-		System.out.println("Subtracting numbers");
+		System.out.println("Subtracting numbers with - operat");
 		  return numberOne - numberTwo;
 		}
 		
